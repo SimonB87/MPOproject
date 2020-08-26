@@ -16,7 +16,6 @@ src/app/config/ngConstants.js
 .DS_Store
 
 # css and map files (excluding css libraries)
-*.css
 *.map
 
 # js build
