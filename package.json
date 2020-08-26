@@ -1,0 +1,27 @@
+{
+  "name": "pvs-templates",
+  "version": "1.0.0",
+  "description": "mpoStyles",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gov-cz/pvs-templates.git"
+  },
+  "keywords": [
+    "mpoStyle"
+  ],
+  "author": "Lundegaard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gov-cz/pvs-templates/issues"
+  },
+  "homepage": "https://github.com/gov-cz/pvs-templates#readme"
+}
